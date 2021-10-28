@@ -9,7 +9,7 @@ My Hello World Rust Programs
 
 ## Progress
 - [x] Hello World
-- [ ] Primitives
+- [x] Primitives
 - [ ] Custom Types
 - [ ] Variable Bindings
 - [ ] Types
