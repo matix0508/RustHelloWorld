@@ -15,7 +15,7 @@ My Hello World Rust Programs
 - [x] Hello World
 - [x] Primitives
 - [x] Custom Types
-- [ ] Variable Bindings
+- [x] Variable Bindings
 - [ ] Types
 - [ ] Conversion
 - [ ] Expressions
