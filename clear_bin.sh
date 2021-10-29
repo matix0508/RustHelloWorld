@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f  ! -name "*.*" -name ".*"  -delete
+find . -type f ! -name '*.rs' ! -name '*.sh' ! -name '.gitignore' -name '.*' -delete
