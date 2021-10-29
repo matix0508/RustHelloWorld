@@ -7,6 +7,7 @@ My Hello World Rust Programs
 - compile one file with `rustc filename.rs`
 - execute desired file with `./filename`
 
+
 ## Clean dir
 - run `./clear_bin.sh` in root directory to remove all binary files
 
