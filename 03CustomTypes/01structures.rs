@@ -13,11 +13,33 @@ struct Point {
     y: f32
 }
 
+
 #[allow(dead_code)]
 struct Rectangle {
     top_left: Point,
     bottom_right: Point
 }
+
+fn rect_area(rect: Rectangle) -> f32 {
+    let Rectangle { top_left: tl, bottom_right: br} = rect;
+    let Point { x: x1, y: y1 } = tl;
+    let Point { x: x2, y: y2 } = br;
+    return (x2-x1) * (y2-y1)
+}
+
+fn square(point: Point, width: f32) -> Rectangle {
+    Rectangle {
+        top_left: Point {
+            x: point.x,
+            y: point.y
+        },
+        bottom_right: Point {
+            x: point.x + width,
+            y: point.y + width
+        }
+    }
+}
+
 
 fn main() {
     let name = String::from("Peter");
@@ -50,6 +72,15 @@ fn main() {
     let Pair(integer, decimal) = pair;
 
     println!("pair contains {:?} and {:?}", integer, decimal);
+
+    let rect = Rectangle {
+        top_left: Point { x: 0.0, y: 1.0},
+        bottom_right: Point { x: 2.0, y: 4.0}
+    };
+
+    println!("Rectangle area: {}", rect_area(rect));
+
+    println!("Square: {}", square(Point {x: 0.0, y: 2.3 }, 5.0).top_left.x)
 
 
 }
