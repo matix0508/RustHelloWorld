@@ -16,7 +16,7 @@ My Hello World Rust Programs
 - [x] Primitives
 - [x] Custom Types
 - [x] Variable Bindings
-- [ ] Types
+- [x] Types
 - [ ] Conversion
 - [ ] Expressions
 - [ ] Flow of Control
