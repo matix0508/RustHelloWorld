@@ -19,7 +19,7 @@ My Hello World Rust Programs
 - [x] Types
 - [x] Conversion
 - [x] Expressions
-- [ ] Flow of Control
+- [x] Flow of Control
 - [ ] Functions
 - [ ] Modules
 - [ ] Crates
