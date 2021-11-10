@@ -18,7 +18,7 @@ My Hello World Rust Programs
 - [x] Variable Bindings
 - [x] Types
 - [x] Conversion
-- [ ] Expressions
+- [x] Expressions
 - [ ] Flow of Control
 - [ ] Functions
 - [ ] Modules
