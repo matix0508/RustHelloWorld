@@ -20,7 +20,7 @@ My Hello World Rust Programs
 - [x] Conversion
 - [x] Expressions
 - [x] Flow of Control
-- [ ] Functions
+- [x] Functions
 - [ ] Modules
 - [ ] Crates
 - [ ] Cargo
