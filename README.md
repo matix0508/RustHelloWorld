@@ -21,8 +21,8 @@ My Hello World Rust Programs
 - [x] Expressions
 - [x] Flow of Control
 - [x] Functions
-- [ ] Modules
-- [ ] Crates
+- [x] Modules
+- [x] Crates
 - [ ] Cargo
 - [ ] Attributes
 - [ ] Generics
