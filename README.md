@@ -23,10 +23,10 @@ My Hello World Rust Programs
 - [x] Functions
 - [x] Modules
 - [x] Crates
-- [ ] Cargo
-- [ ] Attributes
-- [ ] Generics
-- [ ] Scoping rules
+- [X] Cargo
+- [X] Attributes
+- [X] Generics
+- [X] Scoping rules
 - [ ] Traits
 - [ ] Macros
 - [ ] Error handling
