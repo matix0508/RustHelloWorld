@@ -23,11 +23,11 @@ My Hello World Rust Programs
 - [x] Functions
 - [x] Modules
 - [x] Crates
-- [X] Cargo
-- [X] Attributes
-- [X] Generics
-- [X] Scoping rules
-- [ ] Traits
+- [x] Cargo
+- [x] Attributes
+- [x] Generics
+- [x] Scoping rules
+- [x] Traits
 - [ ] Macros
 - [ ] Error handling
 - [ ] Std library types
