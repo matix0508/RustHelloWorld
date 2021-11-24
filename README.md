@@ -28,7 +28,7 @@ My Hello World Rust Programs
 - [x] Generics
 - [x] Scoping rules
 - [x] Traits
-- [ ] Macros
+- [x] Macros
 - [ ] Error handling
 - [ ] Std library types
 - [ ] Std misc
